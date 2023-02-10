@@ -1,0 +1,9 @@
+C:\Codes\WORK\shapeLib\bin\Debug\netcoreapp3.1\ShapeLib.deps.json
+C:\Codes\WORK\shapeLib\bin\Debug\netcoreapp3.1\ShapeLib.dll
+C:\Codes\WORK\shapeLib\bin\Debug\netcoreapp3.1\ShapeLib.pdb
+C:\Codes\WORK\shapeLib\obj\Debug\netcoreapp3.1\ShapeLib.csprojAssemblyReference.cache
+C:\Codes\WORK\shapeLib\obj\Debug\netcoreapp3.1\ShapeLib.AssemblyInfoInputs.cache
+C:\Codes\WORK\shapeLib\obj\Debug\netcoreapp3.1\ShapeLib.AssemblyInfo.cs
+C:\Codes\WORK\shapeLib\obj\Debug\netcoreapp3.1\ShapeLib.csproj.CoreCompileInputs.cache
+C:\Codes\WORK\shapeLib\obj\Debug\netcoreapp3.1\ShapeLib.dll
+C:\Codes\WORK\shapeLib\obj\Debug\netcoreapp3.1\ShapeLib.pdb
